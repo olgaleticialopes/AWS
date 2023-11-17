@@ -1,17 +1,15 @@
-
 <h1 align="center">
-🌺 <br> Bootcamp descubra a Nuvem AWS – LocalizaLabs
+🌺 <br> Bootcamp discover the AWS Cloud – LocalizaLabs
 </h1>
 
 
-## 📚 Sobre 
-> Repositorio com anotações e Exercicios sobre minhas aulas do bootcamp DIO, Descobrindo nuvem AWS. 
+## 📚 About
+> Repository with notes and Exercises about my DIO bootcamp classes, Discovering the AWS cloud.
 <br>
 
-## 📝 Anotações Importantes
+## 📝 Important Notes
 
-* Anotações do modulo 1, Criando uma conta na AWS: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/CriandoContaAWS)
-*  Anotações do modulo 2, Computação em Nucem: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/Computa%C3%A7%C3%A3oEmNuvemAWS)
-* Anotações do modulo 3, Conhecendo Serviços: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/ConhecendosServi%C3%A7osAWS)
-* Anotações do modulo 4, Conteudo oficial AWS: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/AWS-officialContent)
-
+* Notes from module 1, Creating an account on AWS: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/CriandoContaAWS)
+* Notes from module 2, Computing in Nucem: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/Computa%C3%A7%C3%A3oEmNuvemAWS)
+* Notes from module 3, Knowing Services: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/conhecimentondosServi%C3%A7osAWS)
+* Module 4 notes, Official AWS Content: [nota.md](https://github.com/olgaleticialopes/AWS/tree/main/AWS-officialContent)
